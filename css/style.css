@@ -45,6 +45,41 @@ header{
     border: none;
     border-radius: 7px;
 }
+.about{
+    margin-top: 50px;
+}
+.about_text{
+    text-align: center;
+}
+.about_text h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    color: #272727;
+    padding: 10px 0;
+}
+.about_text ul{
+text-align: justify;
+padding: 0 17rem;
+padding-bottom: 15px;
+}
+.about_text ul li{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #27272778;
+}
+.about_text button{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    padding:5px 15px;
+    color: #ffffff;
+    background-color: #E55473;
+    border: none;
+    border-radius: 7px;
+}
+
 .service{
     margin: 100px 190px;
 }
